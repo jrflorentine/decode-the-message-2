@@ -1,5 +1,5 @@
 {
-    "name": "Decode the Message",
+    "name": "Decode the Message - Transmitter",
     "description": "",
     "dependencies": {
         "core": "*",
